@@ -13,8 +13,8 @@
         "*": "https:\/\/cdn.discordapp.com\/attachments\/871403567670493194\/1129555266749345793\/Cartesian-4B576.ttf"
     },
     "simple_colors": {
-        "background": 232620342,
-        "background_secondary": 417906730,
+        "background": 14516534,
+        "background_secondary": 15253546,
         "active_channel": 14988288,
         "mention_highlight": -1747320754,
         "input_background": -484880256,
@@ -25,7 +25,12 @@
         "chat_send_btn_light": -14303143,
         "chat_send_btn_bg_dark": -15042247,
         "chat_send_btn_bg_light": -14303143,
-        "button_material_dark": -15118208
+        "button_material_dark": -15118208,
+        "cardview_dark_background": -1788928,
+        "abc_search_url_text": -15118208,
+        "abc_search_url_text_normal": -15118208,
+        "abc_search_url_text_pressed": -15118208,
+        "abc_search_url_text_selected": -15118208
     },
     "drawable_tints": {},
     "raws": {
